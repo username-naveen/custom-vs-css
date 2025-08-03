@@ -7,7 +7,7 @@ Has some custom UI/CSS for the VS code. 🤪
 
 # Add the path to load custom css
 - From VS code, press _Ctrl+Shift+P_ and type _"User Settings (JSON)"_
-- Open the same and update the following:
+- Open the same and update the following before the end of json notation:
   `"vscode_custom_css.imports": ["file:///C:/Users/Naveen/Desktop/custom-vs-css/custom-vscode.css"]`
   NOTE: The path may differ, but use _file:///_ as standard
 
